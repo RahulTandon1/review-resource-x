@@ -1,7 +1,7 @@
 # review-resource-x
 Reviews of resources for coding.
 
-Credits to [Naman Sood] (https://github.com/danistefanovic/build-your-own-x) and Daniel Stefanovic's [Build-your-own-x](https://github.com/danistefanovic/build-your-own-x) for the inspiration.
+Credits to [Naman Sood](https://github.com/danistefanovic/build-your-own-x) and Daniel Stefanovic's [Build-your-own-x](https://github.com/danistefanovic/build-your-own-x) for the inspiration.
 
 > NOTE: All reviews represent the respective contributor's personal view and not my own (unless I'm the one reviewing the resource).
 
@@ -23,13 +23,14 @@ Please keep abusive language to a minimum.
 * AI/ML/DL
 * Tooling
 * Programming Languages
+
 // Need ideas for more categories
 
 
 ## Resource Reviews
 
 ### AI/ML/DL
-* [**fast.ai**: Deep Learning for Coders]
-  * Rahul's review
+* [**fast.ai**: Deep Learning for Coders](https://course.fast.ai/)
+  * Rahul's review // haven't linked any reviews yet.
   * Naman's review
   * cool_guy's review  
